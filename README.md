@@ -1,4 +1,5 @@
 # Taller02-Ramas
 Repo para la realización del taller #2 de la materia de disenio de software ESPOL
 Captura de resultado integrante 1:
-(https://github.com/user-attachments/assets/266eea86-e573-4ec0-bf31-d4701b3065b3)
+
+![Captura de pantalla 2025-05-21 131803](https://github.com/user-attachments/assets/99d8818e-332f-407b-b367-478ab6e42717)
